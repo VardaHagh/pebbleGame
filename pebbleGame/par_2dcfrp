@@ -1,0 +1,5 @@
+      parameter(nsmax=10000000)
+      parameter(nmax=10000000)
+      parameter(nb2max=100000000)
+      parameter(id=2)
+      parameter(mcoord=1000)
